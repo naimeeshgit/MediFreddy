@@ -1,0 +1,6 @@
+{
+  "name": "MedPulse WhatsApp AI Bot - Voice & RAG Healthcare",
+  "description": "WhatsApp-based healthcare assistant powered by Gemini AI and Gnani.ai for multilingual speech-to-text and text-to-speech, featuring RAG-driven medical records vault, medicine ordering, and clinic/hospital appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,50 @@
+================================================================================
+APOLLO MULTI-SPECIALTY CLINIC - CLINICAL PRESCRIPTION ORDER
+================================================================================
+PATIENT NAME: Rahul Sharma              AGE / GENDER: 42 Years / Male
+PRESCRIPTION ID: RX-APL-2026-9931       DATE: 2026-09-01
+DIAGNOSES:
+1. Type 2 Diabetes Mellitus (Fair Glycemic Control, HbA1c 6.8%)
+2. Essential Hypertension (Grade 1, controlled)
+3. Mixed Dyslipidemia
+
+--------------------------------------------------------------------------------
+*** CRITICAL CONTRAINDICATION & ALLERGY RED ALERT ***
+ALLERGY: DOCUMENTED SEVERE ALLERGY TO PENICILLIN & BETA-LACTAMS.
+REACTION: ACUTE BRONCHOSPASM AND GENERALIZED ANGIOEDEMA.
+STRICTLY PROHIBITED: AMOXICILLIN (AUGMENTIN, MOX), AMPICILLIN, PENICILLIN G/V.
+SAFE ANTIMICROBIAL CLASS IF INFECTION: MACROLIDES (AZITHROMYCIN) / FLUOROQUINOLONES.
+--------------------------------------------------------------------------------
+
+ACTIVE MEDICATIONS ORDERED:
+1. Tab GLYCOMET 500 SR (Metformin Hydrochloride 500mg Sustained Release)
+   - Dose: 1 tablet twice daily with meals (1-0-1)
+   - Duration: 90 Days refill
+   - Special Instructions: Take with or immediately after food to avoid GI upset.
+
+2. Tab TELMA 40 (Telmisartan Tablets IP 40mg)
+   - Dose: 1 tablet once daily in the morning after breakfast (1-0-0)
+   - Duration: 90 Days refill
+   - Special Instructions: Monitor blood pressure twice weekly at home.
+
+3. Tab ROZAVEL 10 (Rosuvastatin Calcium 10mg)
+   - Dose: 1 tablet once daily at bedtime after dinner (0-0-1)
+   - Duration: 90 Days refill
+   - Special Instructions: Report any unexplained muscle soreness or weakness.
+
+4. Cap CALCIROL 60K (Cholecalciferol Vitamin D3 60,000 IU)
+   - Dose: 1 capsule once weekly on Sunday after breakfast with warm milk
+   - Duration: 8 Weeks
+
+5. Tab DOLO 650 (Paracetamol 650mg)
+   - Dose: 1 tablet as needed (SOS) for fever > 100°F or severe body ache (Max 3/day).
+
+DIETARY & LIFESTYLE DIRECTIVES:
+- Dietary sodium intake restricted to < 2000 mg/day.
+- Brisk walking 30 minutes, minimum 5 days per week.
+- Next follow-up review: December 2026 with repeat HbA1c and Lipid panel.
+
+Dr. Sunita Rao, MD (Med), DM (Endo)
+Reg No: KMC-44810-KA
+Apollo Multi-Specialty Clinic, Bengaluru
+================================================================================

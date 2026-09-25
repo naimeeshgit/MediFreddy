@@ -1,0 +1,42 @@
+================================================================================
+CITY HEART & VASCULAR INSTITUTE - TRANSTHORACIC ECHOCARDIOGRAPHY
+================================================================================
+PATIENT NAME: Rahul Sharma              AGE / GENDER: 42 Years / Male
+PATIENT ID: CH-ECHO-1092                STUDY DATE: 2026-06-14 11:00 AM
+PERFORMING CARDIOLOGIST: Dr. Anand Mehta, MD, DM, FACC
+MACHINE: Philips EPIQ CVx Transthoracic Matrix Probe
+BLOOD PRESSURE AT EXAM: 132/84 mmHg     HEART RATE: 72 bpm (Regular)
+CLINICAL DIAGNOSIS: Stage 1 Essential Hypertension (Pre-treatment Baseline)
+
+--------------------------------------------------------------------------------
+MEASUREMENTS & VOLUMETRIC DATA:
+Left Ventricular Internal Diameter (Diastole): 47 mm (Normal: 42 - 58 mm)
+Left Ventricular Internal Diameter (Systole):  30 mm (Normal: 25 - 40 mm)
+Interventricular Septum Thickness (IVSd):      10.5 mm (Normal: 6 - 11 mm)
+Posterior Wall Thickness (LVPWd):              10.0 mm (Normal: 6 - 11 mm)
+Left Atrial Anterior-Posterior Diameter:       35 mm (Normal: 30 - 40 mm)
+Aortic Root Dimension:                         31 mm (Normal: 20 - 37 mm)
+Left Ventricular Ejection Fraction (LVEF):     62 % (Biplane Simpson Method)
+
+VALVULAR DOPPLER ASSESSMENT:
+Mitral Valve: Normal leaflet excursion. E/A ratio 0.88, deceleration time 210 ms.
+              Grade 1 (Mild) Impaired Left Ventricular Relaxation (Diastolic Dysfunction).
+Aortic Valve: Trileaflet, opens well. Peak velocity 1.2 m/s. No aortic regurgitation.
+Tricuspid Valve: Trivial physiological tricuspid regurgitation. Estimated PASP 22 mmHg (Normal).
+Pulmonic Valve: Normal flow velocities.
+
+PERICARDIUM & WALL MOTION:
+- No regional wall motion abnormalities (RWMA) at rest.
+- No pericardial effusion or intracardiac thrombus visualized.
+
+--------------------------------------------------------------------------------
+FINAL CARDIOLOGY IMPRESSION:
+1. Normal Left Ventricular Size with Preserved Systolic Function (LVEF 62%).
+2. Concentric remodeling with mild Grade 1 LV diastolic relaxation impairment secondary to hypertension.
+3. No resting ischemia, no significant valvular stenosis or regurgitation.
+4. Continue Tab Telmisartan 40mg once daily; target home BP < 130/80 mmHg.
+
+Dr. Anand Mehta, MD, DM (Cardiology), FACC
+Senior Consultant Interventional Cardiologist
+City Heart & Vascular Institute, Bengaluru
+================================================================================

@@ -1,0 +1,37 @@
+================================================================================
+MANIPAL DIAGNOSTIC & SPECIALTY CLINIC - CLINICAL BIOCHEMISTRY REPORT
+================================================================================
+PATIENT NAME: Rahul Sharma              AGE / GENDER: 42 Years / Male
+PATIENT ID: MP-BLR-2026-8842            SAMPLE DATE: 2026-09-20 08:30 AM
+REFERRED BY: Dr. Rajesh Nair, MD (Med)  REPORT DATE: 2026-09-20 02:45 PM
+FACILITY: Manipal Specialty Care Clinic, Kodihalli, Bengaluru
+ABDM HEALTH ID: 91-8842-1092-2026
+
+--------------------------------------------------------------------------------
+TEST PARAMETER                   OBSERVED VALUE   REFERENCE RANGE     UNIT
+--------------------------------------------------------------------------------
+RENAL FUNCTION TEST (KFT / RFT):
+Serum Creatinine                 0.92             0.70 - 1.20         mg/dL
+Blood Urea Nitrogen (BUN)        16.0             7.0 - 20.0          mg/dL
+Serum Blood Urea                 34.2             15.0 - 45.0         mg/dL
+Serum Uric Acid                  5.4              3.5 - 7.2           mg/dL
+Estimated GFR (CKD-EPI)          98.0             > 90.0 (Normal)     mL/min/1.73m2
+BUN / Creatinine Ratio           17.4             10.0 - 20.0
+
+SERUM ELECTROLYTES:
+Serum Sodium (Na+)               140.0            136.0 - 145.0       mEq/L
+Serum Potassium (K+)             4.30             3.50 - 5.10         mEq/L
+Serum Chloride (Cl-)             101.0            98.0 - 107.0        mEq/L
+
+--------------------------------------------------------------------------------
+CLINICAL INTERPRETATION & PHYSICIAN NOTES:
+1. Renal clearance parameters are strictly within normal physiological limits.
+2. eGFR of 98 mL/min indicates preserved glomerular filtration; no diabetic nephropathy.
+3. Serum potassium is 4.3 mEq/L, confirming that ARB therapy (Telmisartan 40mg) is well-tolerated without hyperkalemia.
+4. Uric acid is optimal at 5.4 mg/dL.
+RECOMMENDATION: Maintain adequate daily hydration (2.5L). Recheck KFT along with annual HbA1c in 6 months.
+
+Authorized Signatory:
+Dr. K. S. Venkatesh, MD (Biochemistry)
+Chief Biochemist, Manipal Diagnostic Services
+================================================================================

@@ -1,0 +1,46 @@
+================================================================================
+CITY HEART INSTITUTE & DIAGNOSTICS - HEMATOLOGY REPORT
+================================================================================
+PATIENT NAME: Rahul Sharma              AGE / GENDER: 42 Years / Male
+PATIENT ID: CH-2026-4491                SAMPLE DATE: 2026-09-10 09:00 AM
+REFERRED BY: Dr. Anand Mehta, DM        REPORT DATE: 2026-09-10 12:30 PM
+SPECIMEN: EDTA Whole Blood (Automated 5-Part Cell Counter)
+FACILITY: Indiranagar 100 Feet Road, Bengaluru
+
+--------------------------------------------------------------------------------
+TEST PARAMETER                   OBSERVED VALUE   REFERENCE RANGE     UNIT
+--------------------------------------------------------------------------------
+RED BLOOD CELL INDICES:
+Hemoglobin (Hb)                  14.6             13.5 - 17.5         g/dL
+Total RBC Count                  4.92             4.50 - 5.90         mil/uL
+Hematocrit (PCV)                 43.8             40.0 - 52.0         %
+Mean Corpuscular Volume (MCV)    89.0             80.0 - 96.0         fL
+Mean Corpuscular Hb (MCH)        29.6             27.0 - 33.0         pg
+MCH Concentration (MCHC)         33.3             32.0 - 36.0         g/dL
+RDW-CV                           12.8             11.5 - 14.5         %
+
+TOTAL & DIFFERENTIAL LEUKOCYTE COUNT:
+Total Leukocyte Count (TLC/WBC)  6,800            4,000 - 11,000      /cu.mm
+Neutrophils                      62.0             40.0 - 75.0         %
+Lymphocytes                      29.0             20.0 - 45.0         %
+Monocytes                        5.0              2.0 - 10.0          %
+Eosinophils                      3.5              1.0 - 6.0           %
+Basophils                        0.5              0.0 - 1.0           %
+
+PLATELET PARAMETERS:
+Platelet Count                   245,000          150,000 - 450,000   /cu.mm
+Mean Platelet Volume (MPV)       8.4              7.0 - 11.0          fL
+
+INFLAMMATORY MARKERS:
+Erythrocyte Sedimentation (ESR)  12               0 - 15 (Normal)     mm/1st hr
+
+PERIPHERAL BLOOD SMEAR:
+RBC Morphology: Normocytic normochromic. No poikilocytosis or target cells.
+WBC: Mature cells with normal morphology. No toxic granulations or blasts seen.
+Platelets: Adequate on smear, clumping absent.
+
+IMPRESSION: Completely normal hemogram. No evidence of microcytic anemia, systemic infection, or acute inflammatory response.
+
+Dr. Rekha Deshpande, MD (Pathology)
+Senior Consultant Pathologist
+================================================================================

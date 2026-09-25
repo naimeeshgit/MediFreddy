@@ -1,0 +1,39 @@
+================================================================================
+FORTIS CLINICAL LABORATORIES - HEPATIC PROFILE (LFT)
+================================================================================
+PATIENT NAME: Rahul Sharma              AGE / GENDER: 42 Years / Male
+PATIENT ID: FT-LFT-7710                 SAMPLE DATE: 2026-08-28 08:15 AM
+REFERRED BY: Dr. Anand Mehta, DM        REPORT DATE: 2026-08-28 03:00 PM
+FACILITY: Fortis Health Pavilion, Bannerghatta Road, Bengaluru
+CLINICAL INDICATION: Routine Statin Safety Monitoring (Rosuvastatin 10mg)
+
+--------------------------------------------------------------------------------
+TEST PARAMETER                   OBSERVED VALUE   REFERENCE RANGE     UNIT
+--------------------------------------------------------------------------------
+LIVER ENZYMES:
+SGOT / AST (Aspartate Amino)     28.0             10.0 - 40.0         U/L
+SGPT / ALT (Alanine Amino)       32.0             10.0 - 45.0         U/L
+Alkaline Phosphatase (ALP)       78.0             40.0 - 130.0        U/L
+Gamma Glutamyl Transferase (GGT) 24.0             10.0 - 55.0         U/L
+
+BILIRUBIN PANEL:
+Serum Bilirubin - Total          0.80             0.20 - 1.20         mg/dL
+Serum Bilirubin - Direct         0.22             0.00 - 0.30         mg/dL
+Serum Bilirubin - Indirect       0.58             0.10 - 0.90         mg/dL
+
+PROTEIN PARAMETERS:
+Total Protein                    7.2              6.4 - 8.3           g/dL
+Serum Albumin                    4.3              3.5 - 5.2           g/dL
+Serum Globulin                   2.9              2.3 - 3.5           g/dL
+Albumin / Globulin (A/G) Ratio   1.48             1.20 - 2.00
+
+--------------------------------------------------------------------------------
+CLINICAL ASSESSMENT:
+1. Liver transaminases (AST/ALT) are strictly normal with no evidence of statin-induced transaminitis.
+2. Normal total bilirubin and synthetic liver function (Albumin 4.3 g/dL).
+3. Patient can safely continue current Rosuvastatin 10mg nocte for dyslipidemia without dose adjustment.
+FOLLOW UP: Annual LFT screening unless abdominal tenderness or dark urine occurs.
+
+Dr. A. K. Bose, MD (Pathology)
+Fortis Reference Laboratories
+================================================================================

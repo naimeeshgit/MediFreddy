@@ -1,0 +1,48 @@
+================================================================================
+PATIENT IMMUNOLOGY & DRUG ALLERGY DOSSIER - EMERGENCY MEDICAL RECORD
+================================================================================
+PATIENT NAME: Rahul Sharma              DOB: 1984-04-12 (Age: 42)
+BLOOD GROUP: B Rh Positive              NATIONAL HEALTH ID: 91-8842-1092-2026
+RECORD DATE: 2025-11-10                 FACILITY: Emergency Dept, Apollo Hospital
+PHYSICIAN: Dr. Rajesh Nair, MD (Internal Medicine)
+
+--------------------------------------------------------------------------------
+DRUG ALLERGY PROFILE #1:
+ALLERGEN AGENT: PENICILLIN & BETA-LACTAM ANTIBIOTICS
+SEVERITY INDEX: LEVEL 4 - SEVERE / LIFE THREATENING ANAPHYLACTOID REACTION
+FIRST OCCURRENCE: October 14, 2021
+INDEX CLINICAL EPISODE:
+Patient was administered Tab Amoxicillin + Clavulanic Acid 625mg (Augmentin) for acute bacterial sinusitis. Within 35 minutes of the second dose, developed:
+- Acute widespread erythematous urticarial plaques across trunk and extremities.
+- Facial and periorbital angioedema with progressive stridor and bronchospasm (SpO2 fell to 89%).
+- Treated in emergency resus with IM Epinephrine 0.5mg, IV Hydrocortisone 200mg, and nebulized Salbutamol.
+- Complete resolution achieved after 18 hours observation.
+
+STRICTLY CONTRAINDICATED PHARMACEUTICALS:
+- Amoxicillin (Augmentin, Mox, Clavam, Amoxil)
+- Ampicillin / Sulbactam
+- Penicillin V / Penicillin G
+- Piperacillin-Tazobactam (Zosyn)
+- Cross-reactivity warning: Avoid First/Second generation Cephalosporins (Cephalexin, Cefuroxime).
+
+RECOMMENDED PROTOCOL-APPROVED SAFE ANTIMICROBIALS:
+- Macrolides: Azithromycin (Azee), Clarithromycin
+- Fluoroquinolones: Ciprofloxacin, Levofloxacin
+- Tetracyclines: Doxycycline
+- Lincosamides: Clindamycin
+
+--------------------------------------------------------------------------------
+DRUG ALLERGY PROFILE #2:
+ALLERGEN AGENT: SULFONAMIDES (SULFA DRUGS)
+SEVERITY INDEX: LEVEL 2 - MILD TO MODERATE
+CLINICAL MANIFESTATION: Diffuse maculopapular cutaneous rash without mucosal involvement.
+AVOID: Trimethoprim-Sulfamethoxazole (Bactrim / Septran).
+
+FOOD / ENVIRONMENTAL ALLERGIES:
+- Pollen / Dust Mites: Mild seasonal allergic rhinitis (controlled with Cetirizine 10mg SOS).
+- Food Allergies: No documented food, peanut, seafood, or egg allergies.
+
+ATTENDING EMERGENCY CONSULTANT:
+Dr. Rajesh Nair, MBBS, MD
+Apollo Emergency Care Center
+================================================================================

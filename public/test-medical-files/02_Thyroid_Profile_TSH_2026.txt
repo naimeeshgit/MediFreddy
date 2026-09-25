@@ -1,0 +1,34 @@
+================================================================================
+APOLLO DIAGNOSTICS CENTRE - IMMUNOASSAY & ENDOCRINE PANEL
+================================================================================
+PATIENT NAME: Rahul Sharma              AGE / GENDER: 42 Years / Male
+PATIENT ID: APL-90214                   SAMPLE DATE: 2026-09-15 07:45 AM
+REFERRED BY: Dr. Sunita Rao (DM, Endo)  REPORT DATE: 2026-09-15 01:15 PM
+FACILITY: Apollo Multi-Specialty Clinic, Koramangala 4th Block, Bengaluru
+COLLECTION TYPE: Fasting Venous Blood (Serum)
+
+--------------------------------------------------------------------------------
+TEST PARAMETER                   OBSERVED VALUE   REFERENCE RANGE     UNIT
+--------------------------------------------------------------------------------
+TOTAL THYROID STIMULATING HORMONE (TSH)
+Serum Ultra-Sensitive TSH        2.34             0.38 - 4.50         uIU/mL
+
+FREE THYROID HORMONES:
+Free Triiodothyronine (FT3)      3.12             2.30 - 4.20         pg/mL
+Free Thyroxine (FT4)             1.28             0.82 - 1.77         ng/dL
+
+ANTI-THYROID ANTIBODIES (SCREENING):
+Anti-Thyroperoxidase (Anti-TPO)  14.2             < 35.0 (Negative)   IU/mL
+
+--------------------------------------------------------------------------------
+ENDOCRINOLOGIST COMMENTARY:
+1. Patient exhibits euthyroid endocrine status.
+2. TSH of 2.34 uIU/mL is well within the ideal target range for adults with metabolic syndrome.
+3. No indication of primary hypothyroidism or subclinical thyroid dysfunction.
+4. Negative Anti-TPO antibodies rule out autoimmune Hashimoto's thyroiditis.
+PLAN: Routine annual screening sufficient unless unexplained lethargy or cold intolerance develops.
+
+Reviewed By:
+Dr. Sunita Rao, MD, DM (Diabetology & Endocrinology)
+Consultant Endocrinologist, Apollo Clinic
+================================================================================
