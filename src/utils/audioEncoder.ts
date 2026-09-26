@@ -74,6 +74,25 @@ export class AudioRecorder {
     return this.encodeWAV(merged, this.sampleRate);
   }
 
+  public cancel(): void {
+    this.isRecording = false;
+
+    if (this.processor && this.input) {
+      this.input.disconnect();
+      this.processor.disconnect();
+    }
+
+    if (this.mediaStream) {
+      this.mediaStream.getTracks().forEach((track) => track.stop());
+    }
+
+    if (this.audioContext && this.audioContext.state !== 'closed') {
+      this.audioContext.close().catch(() => {});
+    }
+
+    this.recordedBuffers = [];
+  }
+
   private encodeWAV(samples: Float32Array, sampleRate: number): Blob {
     const buffer = new ArrayBuffer(44 + samples.length * 2);
     const view = new DataView(buffer);

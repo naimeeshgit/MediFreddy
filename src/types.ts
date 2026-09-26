@@ -112,10 +112,24 @@ export interface WhatsAppMessage {
     | 'medicine_price_comparison'
     | 'local_pharmacy_call'
     | 'handwriting_ocr_result'
-    | 'nearby_pharmacies_list';
+    | 'nearby_pharmacies_list'
+    | 'document_attachment'
+    | 'location_attachment';
   actionData?: any;
   quickReplies?: string[];
   imageUrl?: string;
+  documentMeta?: {
+    filename: string;
+    fileSize: string;
+    fileType: string;
+    rawText?: string;
+  };
+  locationMeta?: {
+    name: string;
+    address: string;
+    lat: number;
+    lng: number;
+  };
 }
 
 export interface MedicalRecord {
